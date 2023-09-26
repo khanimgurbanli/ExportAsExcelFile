@@ -1,7 +1,7 @@
 # Task
 ---- Azerbaijan -----
 
-Tapşırıq 
+
 Lahiyə excel faylından məlumatları oxuyub məlumat bazasına yazmalıdır və dataya görə hesabatları email vasitəsi ilə göndərməlidir. Excel məlumatlarına uyğun nümuneden istifadə edərək məlumat bazası qurulur ve datalar orda saxlanılır.
 
 Enpointler aşağıdaklar olmalıdır
@@ -29,7 +29,9 @@ Git: GitHub
 Email Client: SendGrid
 
 ----English-----
-Task
+
+
+
 The project should read the data from the excel file and write it to the database and send the reports based on the data via email. A database is created using a pattern corresponding to Excel data and the data is stored there.
 
 Enpoints should be the following
